@@ -7,4 +7,4 @@ Kumo is powered by:
 - [**Mongoose**](https://www.npmjs.com/package/mongoose)
 - [**Mongo DB**](https://www.mongodb.com/)
 
-Data is encrypted-at-rest, with sensitive data encrypted with `AEC-256-CBC` and authenticated with `HMAC-SHA-512`.
+Data is encrypted-at-rest - encrypted with `AEC-256-CBC` and authenticated with `HMAC-SHA-512`.
