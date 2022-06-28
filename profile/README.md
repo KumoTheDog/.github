@@ -8,3 +8,5 @@ Kumo is powered by:
 - [**Mongo DB**](https://www.mongodb.com/)
 
 Data is encrypted-at-rest - encrypted with `AEC-256-CBC` and authenticated with `HMAC-SHA-512`.
+
+A website is currently in progress! I will put it here once it is at a feasible level.
