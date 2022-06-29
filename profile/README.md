@@ -10,4 +10,4 @@ Kumo is powered by:
 
 Data is encrypted-at-rest - encrypted with `AEC-256-CBC` and authenticated with `HMAC-SHA-512`.
 
-A website is currently in progress! I will put it here once it is at a feasible level.
+A website is currently in progress! I will put it here once it is at a feasible level to be shown to others :)
