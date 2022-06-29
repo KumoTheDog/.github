@@ -1,4 +1,5 @@
 Welcome to the organisation page for the 'Kumo The Dog' Discord bot. Here, you will find the collection of repositories created for the implementation of the bot! Feel free to click on them and look at their respective documents for more information :)
+For contribution information, check the main Kumo repo.
 
 Kumo is powered by:
 - [**Discord.js**](https://discord.js.org/#/) `v13.7.0`
